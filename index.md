@@ -1,4 +1,4 @@
-## Welcome to Pandas Challenge project
+## Welcome to Pandas Project
 
 You can use the [editor on GitHub](https://github.com/vasantap/pandas-challenge/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
